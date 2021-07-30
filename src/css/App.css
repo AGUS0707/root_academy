@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Graphik sans-serif;
+    src: url("../fonts/GraphikMedium.otf");
+}
+.App{
+    font-family:  Graphik sans-serif;
+}
+.container{
+    padding: 0;
+    box-sizing: border-box;
+    min-width: 90%;
+}

@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "name": "Python",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/img_4.png"
+    },
+    {
+      "name": "Php",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/img_1.png"
+    },
+    {
+      "name": "Java",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/img_2.png"
+    },
+    {
+      "name": "Android",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/img_3.png"
+    }
+  ]
+}
