@@ -3,6 +3,7 @@ import Navbar from "./navbar";
 import Main from "../components/main";
 import EducationPrograms from '../components/educationPrograms';
 import Courses from "../components/courses";
+import Footer from "./Footer";
 function Home() {
 
     return (
@@ -11,6 +12,7 @@ function Home() {
             <Main/>
             <EducationPrograms/>
             <Courses/>
+            <Footer/>
         </div>
     );
 }

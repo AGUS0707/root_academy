@@ -3,22 +3,26 @@
     {
       "name": "Python",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_4.png"
+      "img": "images/img_4-remove.png",
+      "id": 4
     },
     {
       "name": "Php",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_1.png"
+      "img": "images/img_1.png",
+      "id": 1
     },
     {
       "name": "Java",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_2.png"
+      "img": "images/img_2-remove.png",
+      "id": 2
     },
     {
       "name": "Android",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_3.png"
+      "img": "images/img_3-remove.png",
+      "id": 3
     }
   ]
 }
