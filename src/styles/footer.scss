@@ -37,12 +37,56 @@
 .footer{
   background-color: #000;
   padding: 50px 0;
-
+  .fixedButton{
+    .arrowTop{
+      text-decoration: none;
+      position: fixed;
+      bottom: 35px;
+      right: -55px;
+      z-index: 1;
+      width: 55px;
+      height: 55px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.67);
+      border-radius: 3px;
+      transition: all 0.1s;
+      opacity: 0;
+      .arrowTopImg{
+        width: 30px;
+        height: 30px;
+        mask-image: url("../images/up-arrow.svg");
+        background-color: #fff;
+        mask-size: 100%;
+      }
+    }
+    .arrowTopBlock{
+      right: 20px;
+      transition: all 0.1s;
+      opacity: 1;
+    }
+  }
   .container{
     .row{
+      .col-2, .col-3{
+        @media (max-width: 767px){
+          display: none;
+        }
+        @media (min-width: 767px){
+          display: block;
+        }
+      }
       p{
         margin-bottom: 5px;
         color: white;
+        font-size: 15px;
+        @media (min-width: 767px) and (max-width: 992px){
+          font-size: 10px;
+        }
+        @media (max-width: 767px){
+          text-align: center;
+        }
       }
       .link{
         color: white!important;
@@ -55,10 +99,22 @@
         margin-bottom: 20px;
         color: white;
         font-size: 25px;
+        @media (min-width: 767px) and (max-width: 992px){
+          font-size: 20px;
+        }
+        @media (max-width: 767px){
+          text-align: center;
+        }
       }
       h4{
         color: white;
         margin: 20px 0 10px 0;
+        @media (min-width: 767px) and (max-width: 992px){
+          font-size: 20px;
+        }
+        @media (max-width: 767px){
+          text-align: center;
+        }
       }
       .icon{
         cursor: pointer;
@@ -66,9 +122,21 @@
           background-color: darkgray;
         }
       }
+      .dFlex{
+        @media (max-width: 767px){
+          display: flex;
+          justify-content: center;
+        }
+      }
       a{
         text-decoration: none;
         color: white;
+        @media (min-width: 767px) and (max-width: 992px){
+          font-size: 15px;
+        }
+        @media (max-width: 767px){
+          text-align: center!important;
+        }
         &:hover{
           color: darkgray;
         }
@@ -84,6 +152,16 @@
 
     h6{
       color: white;
+      @media (min-width: 576px) and (max-width: 767px){
+        font-size: 12px!important;
+      }
+      @media (max-width: 576px){
+        display: none!important;
+      }
+      @media (min-width: 576px){
+        display: block;
+      }
+
     }
     .footlink{
       text-decoration: none;
@@ -94,5 +172,26 @@
         }
       }
     }
+
   }
+}
+.arrowTop{
+  background-color: #3f2aff!important;
+  cursor: pointer;
+  border-radius: 50% !important;
+  transition: all 0.3s linear!important;
+
+  &:hover{
+    background-color: blue!important;
+
+    .arrowTopImg{
+      transform: translateY(-5px);
+      //transition: all 0.3s linear!important;
+    }
+  }
+}
+.arrowTopImg{
+  width: 18px!important;
+  height: 18px!important;
+  transition: all 0.3s linear!important;
 }

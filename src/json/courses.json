@@ -3,26 +3,435 @@
     {
       "name": "Python",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_4-remove.png",
-      "id": 4
+      "img": "images/phyton1.webp",
+      "id": 4,
+      "link": "phytonkurs",
+      "color": "#b66dff",
+      "content": [
+
+        {
+          "main": "Python sintaksisi bilan tanishib chiqing, yaxshi dasturlash amaliyotini o'rganing va siz va boshqa ishlab chiquvchilar tushunadigan qisqa kod yozishni o'rganing.",
+          "title": "Toza kod yozing"
+        },
+        {
+          "main": "Python sintaksisi bilan tanishib chiqing, yaxshi dasturlash amaliyotini o'rganing va siz va boshqa ishlab chiquvchilar tushunadigan qisqa kod yozishni o'rganing.",
+          "title": "Algoritmlar va ma'lumotlar tuzilishini tushunish"
+        },
+        {
+          "main": "Python sintaksisi bilan tanishib chiqing, yaxshi dasturlash amaliyotini o'rganing va siz va boshqa ishlab chiquvchilar tushunadigan qisqa kod yozishni o'rganing.",
+          "title": "Python dasturlarini yarating"
+        },
+        {
+          "main": "Python sintaksisi bilan tanishib chiqing, yaxshi dasturlash amaliyotini o'rganing va siz va boshqa ishlab chiquvchilar tushunadigan qisqa kod yozishni o'rganing.",
+          "title": "Tarmoq bilan ishlash"
+        },
+        {
+          "main": "Python sintaksisi bilan tanishib chiqing, yaxshi dasturlash amaliyotini o'rganing va siz va boshqa ishlab chiquvchilar tushunadigan qisqa kod yozishni o'rganing.",
+          "title": "Kodni sinab ko'ring"
+        }
+      ],
+      "reja": [
+        "Kirish",
+        "O'zgaruvchilar",
+        "String va uning metodlari",
+        "Matematika va sonlar",
+        "Shartli operatorlar",
+        "List va Tuple(Amaliy mashqlar)",
+        "Dictonary va Set (Amaliy mashqlar)",
+        "Funksiyalar",
+        "Takrorlash Operatorlari",
+        "Exceptions va Handling",
+        "Tahmin Qilish O'yini",
+        "Classlar va Obyektlar(Amaliy mashqlar)",
+        "Dunder Metodlar",
+        "Obyektga yo'naltirilgan dasturlash",
+        "Fayllar, O'qish va Yozish",
+        "Iterator va Generatorlar",
+        "Kontext Menejerlar va Dekoratorlar",
+        "Python Standart Kutubxonasi",
+        "Pip va Virtual Environment",
+        "SQLite bilan ishlash",
+        "Ilmiy Hisoblashlar va Grafiglar chizish"
+
+
+
+      ]
     },
     {
       "name": "Php",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_1.png",
-      "id": 1
+      "img": "images/php1.webp",
+      "id": 1,
+      "link": "phpkurs",
+      "color": "#FEBCB4",
+      "content": [
+
+        {
+          "main": "O'rnatish kerak bo'lgan dasturlar va ularni PHP dasturlarini brauzer va buyruq satrida ishga tushirish uchun qanday sozlash kerakligini bilib oling.",
+          "title": "Atrof -muhitni sozlash"
+        },
+        {
+          "main": "Siz asoslarni o'rganasiz, ularsiz PHP -ni yaxshi ishlab chiquvchisiga aylanish mumkin emas: o'zgaruvchilar, ma'lumotlar turlari, shartlar, tsikllar, funktsiyalar bilan ishlashni o'rganing. Rekursiya va qamrov nima ekanligini bilib oling.",
+          "title": "PHP uchun dastur"
+        },
+        {
+          "main": "O'z kodingizni sinflarga ajratishni, xususiyatlarga kirishni nazorat qilishni va usullarni o'rashni o'rganing. Ilovalaringizni yanada bashoratli va xavfsizroq qiling va sizning kodingiz o'qilishi mumkin.\n\n",
+          "title": "OOP tamoyillarini tushunish"
+        },
+        {
+          "main": "Mahalliy tizimda va Internetda o'qish yoki yozish uchun fayllarni ochishni o'rganing. XML, JSON formatlari bilan tanishing.",
+          "title": "Fayl tizimi bilan ishlash"
+        },
+        {
+          "main": "Xdebug disk raskadrovka vositasi bilan tanishing va ilovangizni qo'lda tuzatishingiz mumkin.",
+          "title": "Dasturda xatolarni aniqlash"
+        },
+        {
+          "main": "MySQL -ni loyihangizga qanday ulashni bilib oling. SQL tilida so'rovlar yozishni o'rganing, siz ma'lumotlar bazasidagi ma'lumotlarni olasiz, qo'shasiz, o'chirasiz va o'zgartirasiz.",
+          "title": "Ma'lumotlar bazalari bilan ishlash"
+        }
+      ],
+      "reja": [
+        "Kirish",
+        "O'zgaruvchilar",
+        "String va uning metodlari",
+        "Matematika va sonlar",
+        "Shartli operatorlar",
+        "List va Tuple(Amaliy mashqlar)",
+        "Dictonary va Set (Amaliy mashqlar)",
+        "Funksiyalar",
+        "Takrorlash Operatorlari",
+        "Exceptions va Handling",
+        "Tahmin Qilish O'yini",
+        "Classlar va Obyektlar(Amaliy mashqlar)",
+        "Dunder Metodlar",
+        "Obyektga yo'naltirilgan dasturlash",
+        "Fayllar, O'qish va Yozish",
+        "Iterator va Generatorlar",
+        "Kontext Menejerlar va Dekoratorlar",
+        "Python Standart Kutubxonasi",
+        "Pip va Virtual Environment",
+        "SQLite bilan ishlash",
+        "Ilmiy Hisoblashlar va Grafiglar chizish"
+
+
+
+      ]
+
     },
     {
       "name": "Java",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_2-remove.png",
-      "id": 2
+      "img": "images/java1.webp",
+      "id": 2,
+      "link": "javakurs",
+      "color": "#74F7B9",
+      "content": [
+
+        {
+          "main": "Til sintaksisini o'rganing, o'zgaruvchilar va operatorlar bilan tanishing, kodingizni yozishni va tuzishni o'rganing va boshqa birovni tushuning.",
+          "title": "Java -da kod yozing"
+        },
+        {
+          "main": "MySQL ma'lumotlar bazasida ma'lumotlarni saqlash va o'zgartirishni o'rganing. So'rovlar yozishni va katta hajmdagi ma'lumotlarni boshqarishni o'rganing.",
+          "title": "MySQL bilan ishlash"
+        },
+        {
+          "main": "Ob'ektga yo'naltirilgan dasturlash tamoyillarini o'rganing va murakkab loyihalarni yarata biling.",
+          "title": "OOP tamoyillarini qo'llang"
+        },
+        {
+          "main": "Jamoa bilan birgalikda tarqatilgan versiya boshqaruv tizimi bilan ishlashni o'rganing, siz o'sha loyihada o'zgartirishlar kiritishingiz yoki qaytarishingiz mumkin bo'ladi.",
+          "title": "Git -dan foydalaning"
+        },
+        {
+          "main": "Java kodining satrlarini ishlaydigan dasturga aylantirishni va Spring Boot yordamida veb -ilovalarni ishlab chiqishni o'rganing.",
+          "title": "Veb -ilovalarni yaratish"
+        },
+        {
+          "main": "Istisnolarni aniqlash va ishlashni o'rganing, kodingizni tuzatish va optimallashtirish usullarini o'rganing. Siz yuqori mahsuldorlikka ega dasturlar yaratishingiz mumkin bo'ladi.",
+          "title": "Kodni optimallashtirish"
+        }
+      ],
+      "reja": [
+        "Kirish. Java dasturlash tili. Dasturlash muhitini sozlash",
+        "Javada ma’lumot turlari va o’zgaruvchilar",
+        "Java dasturlash tili asosiy operatorlari",
+        "Tanlash operatorlari",
+        "Methodlar bilan ishlash",
+        "String klassi metodlari",
+        "Takrorlash va o'tish operatorlari",
+        "Javada massivlar",
+        "Ma’lumotlarni bir turdan boshqa turga o`tkazish",
+        "Primitive type larning qobiq(Wrapper) klasslari, Math klassi methodlari",
+        "OOP tushunchasi. Object, class, o’zgaruvchi, method va konstruktor tushunchalari.",
+        "OOP prinsiplari. Encapsulation",
+        "Package. Access modifikatorlari (private, default, protected, public)",
+        "Inheritance",
+        "Polymorphism. Overloading",
+        "Polymorphism. Overriding",
+        "Abstraction, Interface",
+        "Java 8 Interface yangiliklari",
+        "Lambda Expression",
+        "Javada to`plamlar. Collection va List interfacelari",
+        "Set va Map. Set interface"
+
+
+
+      ]
     },
     {
       "name": "Android",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
-      "img": "images/img_3-remove.png",
-      "id": 3
+      "img": "images/android1.webp",
+      "id": 3,
+      "link": "androidkurs",
+      "color": "#242424",
+      "content": [
+
+        {
+          "main": "Nafaqat tilning asosiy xususiyatlarini o'zlashtiring, balki ko'p ishlov berish, asinxron dasturlash va OOP haqida ham bilib oling. Siz toza kod yozasiz va kod uslubiga amal qilasiz.",
+          "title": "Kotlin uchun dastur"
+        },
+        {
+          "main": "Qurilish konfiguratsiyasini mustaqil ravishda gradle, dizayn ekranlari, SDK ni o'rnatish, ilovalarni yozish va emulyatorda o'z ishini sinab ko'rish.",
+          "title": "Android Studio muhitida ishlash"
+        },
+        {
+          "main": "Siz Kotlin va markirovka haqidagi bilimlaringizni amalda qo'llaysiz: siz bir nechta ekranli, tarmoqqa ulanadigan va smartfonning apparat resurslari bo'lgan qurilmalarni yaratishingiz mumkin bo'ladi.",
+          "title": "Android ilovalarini yaratish"
+        },
+        {
+          "main": "Animatsiya, o'tishni va interfeysning barcha kerakli elementlarini to'g'ri yozishni o'rganing. Sizning ilovangiz dizayni Material Design ko'rsatmalariga mos keladi.",
+          "title": "UI bilan ishlash"
+        },
+        {
+          "main": "Kasbiy rivojlanish texnikasini o'zlashtirish: MVC, MVP, MVI naqshlari bilan tanishish. Bu ko'nikmalar sizga kelgusi faoliyatingizda foydali bo'ladi - siz muammoni qanday hal qilishni va odatiy echimlarni topishni o'rganasiz.",
+          "title": "Dizayn naqshlarini qo'llang"
+        },
+        {
+          "main": "Arizangizdan keraksiz manbalarni tozalash va elektron raqamli imzo kalitini yaratishni o'rganing. Ilovani Google Play -ga yuklab oling va siz uning statistikasini kuzatishingiz mumkin.",
+          "title": "Ilovani Google Play -da chiqaring"
+        }
+      ],
+      "reja": [
+        "Kirish",
+        "O'zgaruvchilar",
+        "String va uning metodlari",
+        "Matematika va sonlar",
+        "Shartli operatorlar",
+        "List va Tuple(Amaliy mashqlar)",
+        "Dictonary va Set (Amaliy mashqlar)",
+        "Funksiyalar",
+        "Takrorlash Operatorlari",
+        "Exceptions va Handling",
+        "Tahmin Qilish O'yini",
+        "Classlar va Obyektlar(Amaliy mashqlar)",
+        "Dunder Metodlar",
+        "Obyektga yo'naltirilgan dasturlash",
+        "Fayllar, O'qish va Yozish",
+        "Iterator va Generatorlar",
+        "Kontext Menejerlar va Dekoratorlar",
+        "Python Standart Kutubxonasi",
+        "Pip va Virtual Environment",
+        "SQLite bilan ishlash",
+        "Ilmiy Hisoblashlar va Grafiglar chizish"
+
+
+
+      ]
+    },
+    {
+      "name": "Frontend",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/frontend1.webp",
+      "id": 3,
+      "link": "frontendkurs",
+      "color": "#FFE64B",
+      "content": [
+
+        {
+          "main": "Barcha turdagi qurilmalar uchun veb -saytlar va ilovalarni joylashtirish",
+          "title": "Veb ilovalar yaratish"
+        },
+        {
+          "main": "JavaScript yordamida veb -saytlar va ilovalar yarating",
+          "title": "Javascript"
+        },
+        {
+          "main": "Git tizimi va GitLab bilan ishlash",
+          "title": "Gitda ishlash"
+        },
+        {
+          "main": "Rivojlanish jarayonini tezlashtirish uchun jQuery kutubxonalaridan foydalaning",
+          "title": "Jquery bilan ishlash"
+        },
+        {
+          "main": "Har qanday brauzerda to'g'ri ochiladigan saytlarni yarating",
+          "title": "saytlarni yaratish"
+        },
+        {
+          "main": "Veb -sahifalarni jonlantirish",
+          "title": "Veb sahifalarga dizayn berish"
+        }
+      ],
+      "reja": [
+        "Web dasturlash. Web texnologiyalari, ishlash prinsiplari, ishlatilish sohalari",
+        "HTML frontend dasturlashning asosiy texnologiyasi",
+        "HTML form elementlari, video, media ma’lumotlari bilan ishlash",
+        "CSS (Cascading Style Sheets – stillarning kaskadli jadvali). Selektorlar, html bilan o’zaro ishlash prinsiplari.",
+        "CSSda o’lchamlar, elementlarning o’lchamlarini o’zgartirish va boshqarish, padding, margin",
+        "Tayyorgarlik. CSS da element chegara chiziqlari",
+        "CSSda matnlar, fontlar, orqa fonlar, elementlarning chegara chiziqlari bilan ishlash",
+        "CSS display parametrlari bilan ishlash",
+        "CSS position parametrlari va ularning ishlatilishi.",
+        "CSSda effektlar",
+        "CSS yordamida HTML elementlari ustida amallar",
+        "Media querylar bilan ishlash, adaptive web sahifa yaratish qoidalari",
+        "CSS ning kengaytirilgan imkonyatlari",
+        "CSSning SASS protsessori",
+        "SASS sintaksisi. SASS imkonyatlari",
+        "SASS texnologiyasi yordamida kichik stillar to'plamini yaratish",
+        "Twitter Bootstrap. Kirish. Asosiy ishlash prinsiplari",
+        "Bootstrapda matnlar, ranglar, tugmalar, form elementlar bilan ishlash",
+        "Bootstrapda alohida HTML elementlarini stillash",
+        "Bootstrapda JavaScriptga asoslangan pluginlari",
+        "JavaScript dasturlash tiliga kirish.",
+        "JavaScript tekshiruv va solishtirish operatorlari",
+        "JavaScriptda object va array tushunchasi",
+        "JavaScriptda sikl operatorlari.",
+        "JavaScriptda function tushunchasi",
+        "JavaScriptda HTML bilan ishlash",
+        "JavaScript bo'yicha amaliyot",
+        "jQuery kutubxonasiga kirish. jQuery sintaksisi, elementlarga murojaat",
+        "jQuery funksiyalari",
+        "jQueryning ajax metodi"
+
+
+
+      ]
+    },
+    {
+      "name": "Desktop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/desktop1.webp",
+      "id": 3,
+      "link": "desktopkurs",
+      "color": "#80CAF2",
+      "content": [
+
+        {
+          "main": "Nafaqat tilning asosiy xususiyatlarini o'zlashtiring, balki ko'p ishlov berish, asinxron dasturlash va OOP haqida ham bilib oling. Siz toza kod yozasiz va kod uslubiga amal qilasiz.",
+          "title": "Kotlin uchun dastur"
+        },
+        {
+          "main": "Qurilish konfiguratsiyasini mustaqil ravishda gradle, dizayn ekranlari, SDK ni o'rnatish, ilovalarni yozish va emulyatorda o'z ishini sinab ko'rish.",
+          "title": "Android Studio muhitida ishlash"
+        },
+        {
+          "main": "Siz Kotlin va markirovka haqidagi bilimlaringizni amalda qo'llaysiz: siz bir nechta ekranli, tarmoqqa ulanadigan va smartfonning apparat resurslari bo'lgan qurilmalarni yaratishingiz mumkin bo'ladi.",
+          "title": "Android ilovalarini yaratish"
+        },
+        {
+          "main": "Animatsiya, o'tishni va interfeysning barcha kerakli elementlarini to'g'ri yozishni o'rganing. Sizning ilovangiz dizayni Material Design ko'rsatmalariga mos keladi.",
+          "title": "UI bilan ishlash"
+        },
+        {
+          "main": "Kasbiy rivojlanish texnikasini o'zlashtirish: MVC, MVP, MVI naqshlari bilan tanishish. Bu ko'nikmalar sizga kelgusi faoliyatingizda foydali bo'ladi - siz muammoni qanday hal qilishni va odatiy echimlarni topishni o'rganasiz.",
+          "title": "Dizayn naqshlarini qo'llang"
+        },
+        {
+          "main": "Arizangizdan keraksiz manbalarni tozalash va elektron raqamli imzo kalitini yaratishni o'rganing. Ilovani Google Play -ga yuklab oling va siz uning statistikasini kuzatishingiz mumkin.",
+          "title": "Ilovani Google Play -da chiqaring"
+        }
+      ],
+      "reja": [
+        "Kirish",
+        "O'zgaruvchilar",
+        "String va uning metodlari",
+        "Matematika va sonlar",
+        "Shartli operatorlar",
+        "List va Tuple(Amaliy mashqlar)",
+        "Dictonary va Set (Amaliy mashqlar)",
+        "Funksiyalar",
+        "Takrorlash Operatorlari",
+        "Exceptions va Handling",
+        "Tahmin Qilish O'yini",
+        "Classlar va Obyektlar(Amaliy mashqlar)",
+        "Dunder Metodlar",
+        "Obyektga yo'naltirilgan dasturlash",
+        "Fayllar, O'qish va Yozish",
+        "Iterator va Generatorlar",
+        "Kontext Menejerlar va Dekoratorlar",
+        "Python Standart Kutubxonasi",
+        "Pip va Virtual Environment",
+        "SQLite bilan ishlash",
+        "Ilmiy Hisoblashlar va Grafiglar chizish"
+
+
+
+      ]
+    },
+    {
+      "name": "Foundation",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur delectus expedita illum iusto, nesciunt.",
+      "img": "images/foundation1.webp",
+      "id": 3,
+      "link": "foundationkurs",
+      "color": "#10C9A0",
+      "content": [
+
+        {
+          "main": "Nafaqat tilning asosiy xususiyatlarini o'zlashtiring, balki ko'p ishlov berish, asinxron dasturlash va OOP haqida ham bilib oling. Siz toza kod yozasiz va kod uslubiga amal qilasiz.",
+          "title": "Kotlin uchun dastur"
+        },
+        {
+          "main": "Qurilish konfiguratsiyasini mustaqil ravishda gradle, dizayn ekranlari, SDK ni o'rnatish, ilovalarni yozish va emulyatorda o'z ishini sinab ko'rish.",
+          "title": "Android Studio muhitida ishlash"
+        },
+        {
+          "main": "Siz Kotlin va markirovka haqidagi bilimlaringizni amalda qo'llaysiz: siz bir nechta ekranli, tarmoqqa ulanadigan va smartfonning apparat resurslari bo'lgan qurilmalarni yaratishingiz mumkin bo'ladi.",
+          "title": "Android ilovalarini yaratish"
+        },
+        {
+          "main": "Animatsiya, o'tishni va interfeysning barcha kerakli elementlarini to'g'ri yozishni o'rganing. Sizning ilovangiz dizayni Material Design ko'rsatmalariga mos keladi.",
+          "title": "UI bilan ishlash"
+        },
+        {
+          "main": "Kasbiy rivojlanish texnikasini o'zlashtirish: MVC, MVP, MVI naqshlari bilan tanishish. Bu ko'nikmalar sizga kelgusi faoliyatingizda foydali bo'ladi - siz muammoni qanday hal qilishni va odatiy echimlarni topishni o'rganasiz.",
+          "title": "Dizayn naqshlarini qo'llang"
+        },
+        {
+          "main": "Arizangizdan keraksiz manbalarni tozalash va elektron raqamli imzo kalitini yaratishni o'rganing. Ilovani Google Play -ga yuklab oling va siz uning statistikasini kuzatishingiz mumkin.",
+          "title": "Ilovani Google Play -da chiqaring"
+        }
+      ],
+      "reja": [
+        "Kirish",
+        "O'zgaruvchilar",
+        "String va uning metodlari",
+        "Matematika va sonlar",
+        "Shartli operatorlar",
+        "List va Tuple(Amaliy mashqlar)",
+        "Dictonary va Set (Amaliy mashqlar)",
+        "Funksiyalar",
+        "Takrorlash Operatorlari",
+        "Exceptions va Handling",
+        "Tahmin Qilish O'yini",
+        "Classlar va Obyektlar(Amaliy mashqlar)",
+        "Dunder Metodlar",
+        "Obyektga yo'naltirilgan dasturlash",
+        "Fayllar, O'qish va Yozish",
+        "Iterator va Generatorlar",
+        "Kontext Menejerlar va Dekoratorlar",
+        "Python Standart Kutubxonasi",
+        "Pip va Virtual Environment",
+        "SQLite bilan ishlash",
+        "Ilmiy Hisoblashlar va Grafiglar chizish"
+
+
+
+      ]
     }
   ]
 }
